@@ -14,7 +14,9 @@ Welcome to SolBNB, a modern vacation rental platform leveraging blockchain techn
 
 ## Introduction
 
-SolBNB is designed to transform the vacation rental industry by integrating blockchain technology to ensure security, transparency, and trust between hosts and guests. With SolBNB, users can book and manage properties with confidence, knowing that all transactions are secure and immutable.This project won 2nd place on consumer track on Solana hackathon Berlin 2024
+SolBNB is designed to transform the vacation rental industry by integrating blockchain technology to ensure security, transparency, and trust between hosts and guests. With SolBNB, users can book and manage properties with confidence, knowing that all transactions are secure and immutable.
+
+This project won 2nd place on consumer track on Solana hackathon Berlin 2024.
 
 ## Features
 
