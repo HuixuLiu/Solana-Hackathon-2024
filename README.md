@@ -86,7 +86,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## demo
 
-WhatsApp Image 2024-05-22 at 10.46.23.jpeg
+!(images/WhatsApp%20Image%202024-05-22%20at%2010.46.23.jpeg)
 
 ## Acknowledgements
 
